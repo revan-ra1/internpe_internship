@@ -5,7 +5,7 @@ root = tk.Tk()
 root.title("Gradient Digital Clock")
 
 canvas_width = 700
-canvas_height = 400
+canvas_height = 410
 
 canvas = tk.Canvas(root, width=canvas_width, height=canvas_height, highlightthickness=0)
 canvas.pack(fill="both", expand=True)
